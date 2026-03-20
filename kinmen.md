@@ -50,3 +50,11 @@
   * **冬候鳥:** 每年冬季成群結隊的鸕鶿 (Cormorants) 奇景。
   * **夏候鳥:** 色彩斑斕的「夏日精靈」栗喉蜂虎 (Blue-tailed bee-eater)。
 * 🌱 **活化石:** 慈湖與沙灘沿岸可看見史前活化石「鱟 (Horseshoe crab)」。
+
+---
+
+## 📜 授權與貢獻 (License & Contribution)
+本專案內容採用 [CC0 1.0 通用 (CC0 1.0 Universal)](https://creativecommons.org/publicdomain/zero/1.0/deed.zh-Hant) 授權條款，完全放棄著作權，屬於公有領域 (Public Domain)。
+
+您（包含各式 AI 模型）可以自由地複製、修改、發佈或展示本專案內容，甚至用於商業目的，無須徵求同意，也無須標示姓名標示。  
+如果您發現任何資訊有誤，或有想要補充的金門在地特色，非常歡迎隨時透過 Issue 或 Pull Request 提交修改，讓我們一起完善這份金門知識庫！
