@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# 明確歡迎主流 AI 爬蟲 (非必須，但能展現 AI-Friendly 的態度)
+User-agent: GPTBot
+Allow: /
+
+User-agent: Anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
